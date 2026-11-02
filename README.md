@@ -11,7 +11,8 @@ The goal was to transform raw sales data into an interactive dashboard that help
 * **Microsoft Power BI** – Dashboard Development & Data Visualization
 * **Power Query** – Data Cleaning & Transformation
 * **DAX** – Measures and KPI Calculations
-
+* **SQL (MySQL):** Data querying, aggregation, filtering, GROUP BY, HAVING, subqueries, and creating views.
+  
 ## ❓ Business Problems
 
 * Which region generates the highest sales?
@@ -49,6 +50,15 @@ The goal was to transform raw sales data into an interactive dashboard that help
 * Customer Analysis
 * Order Status Distribution
 
+  **SQL Analysis**
+
+* Created analytical SQL views.
+* Analyzed regional and category-wise sales.
+* Identified top-performing products and customers.
+* Ranked salespersons based on revenue.
+* Used subqueries to identify high-sales, low-profit products.
+
+
 ## 💡 Business Insights
 
 * The North region contributes the highest sales revenue.
@@ -65,4 +75,4 @@ Developed an interactive Power BI dashboard to analyze sales, profitability, pro
 
 **Project Type:** Data Analytics & Visualization
 **Domain:** Retail & Sales Analytics
-**Tool Used:** Microsoft Power BI
+**Tool Used:** Microsoft Power BI, SQL
